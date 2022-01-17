@@ -1,0 +1,98 @@
+{
+    "meta-data" : {
+        "version": "0.0.1",
+        "date-created": "16-01-2021",
+        "date-modified": "16-01-2021"
+    },
+    "data": {
+        "me": {
+            "name": "Anchit Mulye",
+            "background": "Software Engineer",
+            "current-job": "ABC Company",
+            "social-links": [
+                {
+                    "LinkedId" : "www.linkedin.com"
+                },
+                {
+                    "GitHub": "www.github.com"
+                }
+            ]
+        },
+        "about": {
+            "text": "I am a software engineer who is currently working on this website."
+        },
+        "experience": [
+            {
+                "company-logo": "link",
+                "company-name": "A Company",
+                "designation": "Software Developer",
+                "from": "Jan 2020",
+                "to": "Dec 2020",
+                "location": "Indore",
+                "description": "I work here to change the world"
+            },
+            {
+                "company-logo": "link",
+                "company-name": "B Company",
+                "designation": "Junior Developer",
+                "from": "Jan 2019",
+                "to": "Dec 2019",
+                "location": "Indore",
+                "description": "I work here to change the world"
+            },
+            {
+                "company-logo": "link",
+                "company-name": "C Company",
+                "designation": "Intern",
+                "from": "Jan 2018",
+                "to": "Dec 2018",
+                "location": "Indore",
+                "description": "I work here to change the world"
+            }
+        ],
+        "education": [
+            {
+                "college-logo": "link",
+                "college-name": "Ed College",
+                "from": "2016",
+                "to": "2020",
+                "degree": "Bachelor of Engineering",
+                "major": "Computer Science"
+            },
+            {
+                "college-logo": "link",
+                "college-name": "Ed-Tech School",
+                "from": "2014",
+                "to": "2016",
+                "degree": "Bachelor of Engineering",
+                "major": "Music"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": 5
+            },
+            {
+                "name": "C++",
+                "level": 5
+            },
+            {
+                "name": "Javascript",
+                "level": 5
+            }
+        ],
+        "projects": [
+            {
+                "title": "Something funny",
+                "link": "www.youtube.com",
+                "description": "How funny it can be, oh really."
+            },
+            {
+                "title": "Something scary",
+                "link": "www.youtube.com",
+                "description": "How much horror is really fine"
+            }
+        ]
+    }
+}
