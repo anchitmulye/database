@@ -23,7 +23,7 @@
         },
         "experience": [
             {
-                "company-logo": "https://github.com/anchitmulye/database/tree/master/anchitmulye/assets/company/logo512.png",
+                "company-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/logo512.png",
                 "company-name": "A Company",
                 "designation": "Software Developer",
                 "from": "Jan 2020",
@@ -32,7 +32,7 @@
                 "description": "I work here to change the world"
             },
             {
-                "company-logo": "link",
+                "company-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/logo512.png",
                 "company-name": "B Company",
                 "designation": "Junior Developer",
                 "from": "Jan 2019",
@@ -41,7 +41,7 @@
                 "description": "I work here to change the world"
             },
             {
-                "company-logo": "link",
+                "company-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/logo512.png",
                 "company-name": "C Company",
                 "designation": "Intern",
                 "from": "Jan 2018",
@@ -52,7 +52,7 @@
         ],
         "education": [
             {
-                "college-logo": "link",
+                "college-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/logo512.png",
                 "college-name": "Ed College",
                 "from": "2016",
                 "to": "2020",
@@ -60,7 +60,7 @@
                 "major": "Computer Science"
             },
             {
-                "college-logo": "link",
+                "college-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/logo512.png",
                 "college-name": "Ed-Tech School",
                 "from": "2014",
                 "to": "2016",
