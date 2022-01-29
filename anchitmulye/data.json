@@ -11,10 +11,16 @@
             "current-job": "ABC Company",
             "social-links": [
                 {
-                    "LinkedId" : "www.linkedin.com"
+                    "name": "linkedin",
+                    "url" : "www.linkedin.com"
                 },
                 {
-                    "GitHub": "www.github.com"
+                    "name": "github",
+                    "url": "www.github.com"
+                },
+                {
+                    "name": "youtube",
+                    "url": "www.youtube.com"
                 }
             ]
         },
