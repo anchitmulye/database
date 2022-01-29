@@ -2,7 +2,7 @@
     "meta-data" : {
         "version": "0.0.1",
         "date-created": "16-01-2021",
-        "date-modified": "16-01-2021"
+        "date-modified": "29-01-2022"
     },
     "data": {
         "me": {
@@ -12,15 +12,15 @@
             "social-links": [
                 {
                     "name": "linkedin",
-                    "url" : "www.linkedin.com"
+                    "url" : "https://www.linkedin.com"
                 },
                 {
                     "name": "github",
-                    "url": "www.github.com"
+                    "url": "https://www.github.com"
                 },
                 {
                     "name": "youtube",
-                    "url": "www.youtube.com"
+                    "url": "https://www.youtube.com"
                 }
             ]
         },
