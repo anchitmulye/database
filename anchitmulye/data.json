@@ -25,7 +25,7 @@
             ]
         },
         "about": {
-            "text": "I am a software engineer who is currently working on this website."
+            "text": "I am Software Engineer who is currently working on this website.\n Crunching huge amount of data....Might take a while!"
         },
         "experience": [
             {
@@ -57,7 +57,7 @@
             },
             {
                 "company-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/isro.png",
-                "company-name": "NRSC ISRO",
+                "company-name": "ISRO",
                 "designation": "Research Intern",
                 "from": "Jun 2019",
                 "to": "Aug 2019",
