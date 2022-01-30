@@ -1,26 +1,26 @@
 {
     "meta-data" : {
-        "version": "0.0.1",
+        "version": "1.0.0",
         "date-created": "16-01-2021",
-        "date-modified": "29-01-2022"
+        "date-modified": "31-01-2022"
     },
     "data": {
         "me": {
             "name": "Anchit Mulye",
             "background": "Software Engineer",
-            "current-job": "ABC Company",
+            "current-job": "Jio",
             "social-links": [
                 {
                     "name": "linkedin",
-                    "url" : "https://www.linkedin.com"
+                    "url" : "https://www.linkedin.com/in/anchitmulye"
                 },
                 {
                     "name": "github",
-                    "url": "https://www.github.com"
+                    "url": "https://github.com/anchitmulye"
                 },
                 {
                     "name": "youtube",
-                    "url": "https://www.youtube.com"
+                    "url": "https://www.youtube.com/channel/UCczKyJ03eHZTb--GtY_ZeTA"
                 }
             ]
         },
@@ -29,49 +29,59 @@
         },
         "experience": [
             {
-                "company-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/logo512.png",
-                "company-name": "A Company",
-                "designation": "Software Developer",
-                "from": "Jan 2020",
-                "to": "Dec 2020",
-                "location": "Indore",
-                "description": "I work here to change the world"
+                "company-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/jio.png",
+                "company-name": "Jio",
+                "designation": "Deputy Manager - Windows Developer",
+                "from": "Jan 2022",
+                "to": "Present",
+                "location": "Mumbai",
+                "description": "Crunching huge amount of data....Might take a while!"
             },
             {
-                "company-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/logo512.png",
-                "company-name": "B Company",
-                "designation": "Junior Developer",
+                "company-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/harman.png",
+                "company-name": "Harman",
+                "designation": "Associate Software Engineer - Product Development",
+                "from": "Dec 2020",
+                "to": "Dec 2021",
+                "location": "Pune",
+                "description": "Crunching huge amount of data....Might take a while!"
+            },
+            {
+                "company-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/dxc.png",
+                "company-name": "DXC",
+                "designation": "Associate Software Engineer",
+                "from": "Jul 2020",
+                "to": "Nov 2020",
+                "location": "Hyderabad",
+                "description": "Crunching huge amount of data....Might take a while!"
+            },
+            {
+                "company-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/isro.png",
+                "company-name": "NRSC ISRO",
+                "designation": "Research Intern",
+                "from": "Jun 2019",
+                "to": "Aug 2019",
+                "location": "Hyderabad",
+                "description": "Crunching huge amount of data....Might take a while!"
+            },
+            {
+                "company-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/hv.png",
+                "company-name": "Hvantage",
+                "designation": "Research Analyst Intern",
                 "from": "Jan 2019",
-                "to": "Dec 2019",
+                "to": "Mar 2019",
                 "location": "Indore",
-                "description": "I work here to change the world"
-            },
-            {
-                "company-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/logo512.png",
-                "company-name": "C Company",
-                "designation": "Intern",
-                "from": "Jan 2018",
-                "to": "Dec 2018",
-                "location": "Indore",
-                "description": "I work here to change the world"
+                "description": "Crunching huge amount of data....Might take a while!"
             }
         ],
         "education": [
             {
-                "college-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/logo512.png",
-                "college-name": "Ed College",
+                "college-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/college/rgpv.png",
+                "college-name": "Rajiv Gandhi Prodyogiki Vishwavidyalaya",
                 "from": "2016",
                 "to": "2020",
                 "degree": "Bachelor of Engineering",
                 "major": "Computer Science"
-            },
-            {
-                "college-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/logo512.png",
-                "college-name": "Ed-Tech School",
-                "from": "2014",
-                "to": "2016",
-                "degree": "Bachelor of Engineering",
-                "major": "Music"
             }
         ],
         "skills": [
