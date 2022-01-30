@@ -9,6 +9,7 @@
             "name": "Anchit Mulye",
             "background": "Software Engineer",
             "current-job": "Jio",
+            "city": "Indore",
             "social-links": [
                 {
                     "name": "linkedin",
@@ -31,6 +32,7 @@
             {
                 "company-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/jio.png",
                 "company-name": "Jio",
+                "company-url": "https://www.jio.com",
                 "designation": "Deputy Manager - Windows Developer",
                 "from": "Jan 2022",
                 "to": "Present",
@@ -40,6 +42,7 @@
             {
                 "company-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/harman.png",
                 "company-name": "Harman",
+                "company-url": "https://www.harman.com",
                 "designation": "Associate Software Engineer - Product Development",
                 "from": "Dec 2020",
                 "to": "Dec 2021",
@@ -49,6 +52,7 @@
             {
                 "company-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/dxc.png",
                 "company-name": "DXC",
+                "company-url": "https://dxc.com",
                 "designation": "Associate Software Engineer",
                 "from": "Jul 2020",
                 "to": "Nov 2020",
@@ -58,6 +62,7 @@
             {
                 "company-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/isro.png",
                 "company-name": "ISRO",
+                "company-url": "https://www.nrsc.gov.in",
                 "designation": "Research Intern",
                 "from": "Jun 2019",
                 "to": "Aug 2019",
@@ -67,6 +72,7 @@
             {
                 "company-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/company/hv.png",
                 "company-name": "Hvantage",
+                "company-url": "https://www.hvantage.com",
                 "designation": "Research Analyst Intern",
                 "from": "Jan 2019",
                 "to": "Mar 2019",
@@ -78,6 +84,7 @@
             {
                 "college-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/college/rgpv.png",
                 "college-name": "Rajiv Gandhi Prodyogiki Vishwavidyalaya",
+                "college-url": "",
                 "from": "2016",
                 "to": "2020",
                 "degree": "Bachelor of Engineering",
