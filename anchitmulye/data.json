@@ -93,28 +93,76 @@
         ],
         "skills": [
             {
-                "name": "Python",
-                "level": 5
+                "domain": "Embedded Systems",
+                "expertise": [
+                    {
+                        "name": "C++",
+                        "img": "",
+                        "level": 4.5
+                    },
+                    {
+                        "name": "C",
+                        "img": "",
+                        "level": 4
+                    }
+                ]
             },
             {
-                "name": "C++",
-                "level": 5
+                "domain": "Web Development",
+                "expertise": [
+                    {
+                        "name": "React",
+                        "img": "",
+                        "level": 4.5
+                    },
+                    {
+                        "name": "Java-Script",
+                        "img": "",
+                        "level": 3.5
+                    },
+                    {
+                        "name": "HTML",
+                        "img": "",
+                        "level": 2.5
+                    },
+                    {
+                        "name": "CSS",
+                        "img": "",
+                        "level": 1.5
+                    }
+                ]
             },
             {
-                "name": "Javascript",
-                "level": 5
+                "domain": "Machine Learning",
+                "expertise": [
+                    {
+                        "name": "Python",
+                        "img": "",
+                        "level": 4.5
+                    },
+                    {
+                        "name": "Tensor-flow",
+                        "img": "",
+                        "level": 0.5
+                    }
+                ]
             }
         ],
         "projects": [
             {
-                "title": "Something funny",
-                "link": "www.youtube.com",
-                "description": "How funny it can be, oh really."
+                "title": "Sudoku",
+                "link": "yN0josjwKe8",
+                "description": ""
             },
             {
-                "title": "Something scary",
-                "link": "www.youtube.com",
-                "description": "How much horror is really fine"
+                "title": "TBee",
+                "link": "CwGqSdd7qEo",
+                "description": ""
+            },
+            {
+                "title": "Art Mac",
+                "link": "vHgw_SCHw_c",
+                "description": ""
             }
         ],
         "extra": {
