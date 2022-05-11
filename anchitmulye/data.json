@@ -131,7 +131,7 @@
                         "level": 4.0
                     },
                     {
-                        "name": "Boot-stap",
+                        "name": "Boot-strap",
                         "img": "",
                         "level": 4.0
                     }
@@ -156,7 +156,7 @@
                         "level": 4.8
                     },
                     {
-                        "name": "pandas",
+                        "name": "Pandas",
                         "img": "",
                         "level": 4.6
                     }
