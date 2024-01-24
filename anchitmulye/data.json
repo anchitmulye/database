@@ -2,7 +2,7 @@
     "meta-data" : {
         "version": "1.0.0",
         "date-created": "16-01-2021",
-        "date-modified": "31-01-2022"
+        "date-modified": "24-01-2024"
     },
     "data": {
         "me": {
@@ -81,6 +81,15 @@
             }
         ],
         "education": [
+            {
+                "college-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/college/iitj.png",
+                "college-name": "Indian Institute of Technology Jodhpur",
+                "college-url": "https://www.iitj.ac.in",
+                "from": "2024",
+                "to": "2026",
+                "degree": "Master of Technology",
+                "major": "Artificial Intelligence"
+            }
             {
                 "college-logo": "https://raw.githubusercontent.com/anchitmulye/database/master/anchitmulye/assets/college/rgpv.png",
                 "college-name": "Rajiv Gandhi Proudyogiki Vishwavidyalaya",
